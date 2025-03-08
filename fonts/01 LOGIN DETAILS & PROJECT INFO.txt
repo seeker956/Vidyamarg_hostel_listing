@@ -1,15 +1,15 @@
-**Log on to codeastro.com for more projects!***
+**Log on to for more projects!***
 
-**Database Name: realestatephp**
+**Database Name: hostel listing**
 
-**Developed by Suraj Kumar Vishwakarma**
+**Developed by Mani Raj**
 
-**Recommended PHP Version 5.6, 7.4**
+**Recommended PHP Version  7.4**
 
 
 **Admin Login Details**
 
 Username: admin
-Password: codeastro.com
+Password: 
 
 
